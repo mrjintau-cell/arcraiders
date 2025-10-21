@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arcraidersde.netlify.app/sitemap.xml
